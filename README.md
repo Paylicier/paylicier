@@ -1,2 +1,3 @@
-<div align="center"><img src="https://github.com/Paylicier/paylicier/assets/140975567/be47c713-2837-4c95-b498-bfc619bc0f56" alt="banner"/></div><br>
-<hr><br>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1ca8a035-ba05-491f-b45a-cb8d263a0d72" />
+</p>
